@@ -18,6 +18,6 @@ Initializing provider plugins...
 │ command:
 │     terraform providers
 
-##SOLUTIONS:
+## SOLUTIONS:
 
 i mis spelled name hashicorp to hashicrop:
